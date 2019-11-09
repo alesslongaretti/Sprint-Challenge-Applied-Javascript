@@ -21,9 +21,9 @@ function Header() {
     temp.textContent = "98°";
 
 
-    header.classList.add='header';
-    date.classList.add='date';
-    temp.classList.add= 'temp';
+    header.classList.add('header');
+    date.classList.add('date');
+    temp.classList.add('temp');
 
     header.appendChild(date);
     header.appendChild(h1);
